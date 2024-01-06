@@ -1,0 +1,10 @@
+D:\Proyectos NET\Cositas\Carrito\CursoXamarin\Usersapp\bin\Debug\Usersapp.exe.config
+D:\Proyectos NET\Cositas\Carrito\CursoXamarin\Usersapp\bin\Debug\Usersapp.exe
+D:\Proyectos NET\Cositas\Carrito\CursoXamarin\Usersapp\bin\Debug\Usersapp.pdb
+D:\Proyectos NET\Cositas\Carrito\CursoXamarin\Usersapp\obj\Debug\Usersapp.csproj.AssemblyReference.cache
+D:\Proyectos NET\Cositas\Carrito\CursoXamarin\Usersapp\obj\Debug\Usersapp.Presentacion.Usuarios.resources
+D:\Proyectos NET\Cositas\Carrito\CursoXamarin\Usersapp\obj\Debug\Usersapp.Properties.Resources.resources
+D:\Proyectos NET\Cositas\Carrito\CursoXamarin\Usersapp\obj\Debug\Usersapp.csproj.GenerateResource.cache
+D:\Proyectos NET\Cositas\Carrito\CursoXamarin\Usersapp\obj\Debug\Usersapp.csproj.CoreCompileInputs.cache
+D:\Proyectos NET\Cositas\Carrito\CursoXamarin\Usersapp\obj\Debug\Usersapp.exe
+D:\Proyectos NET\Cositas\Carrito\CursoXamarin\Usersapp\obj\Debug\Usersapp.pdb

@@ -1,0 +1,13 @@
+CREATE DATABASE ProyectoXamarin
+
+GO
+
+USE ProyectoXamarin
+
+CREATE TABLE USUARIO (
+idUsuario INT PRIMARY KEY IDENTITY,
+Usuario VARCHAR(MAX),
+Clave VARCHAR(MAX),
+Icono VARBINARY(MAX),
+Estado VARCHAR(MAX)
+);
